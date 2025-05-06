@@ -1,4 +1,4 @@
-## **$H^2DGL: Adaptive Metapath-based Dynamic Graph Learning for Supply Forecasting in Logistics System**
+## **H^2DGL: Adaptive Metapath-based Dynamic Graph Learning for Supply Forecasting in Logistics System**
 This repository is the official implementation of "H^2DGL: Adaptive Metapath-based Dynamic Graph Learning for Supply Forecasting in Logistics System" .
 ## **Abstract**
 The advanced logistics systems are increasingly transitioning towards integrated warehousing and distribution supply networks (IWDSN), where accurately forecasting supply capacity is essential for maintaining delivery capabilities that meet user demands. However, existing research often overlooks the impact of dynamic changes in network topology, resulting in limitations in capturing dynamic routing and diverse node responses. These limitations become particularly pronounced in the context of external events such as pandemics, heavy rain, and promotions. To address the above limitations, we propose H^2DGL, a Hierarchical Heterogeneous Dynamic Graph Learning framework based on adaptive metapath aggregation, for forecasting supply capabilities in logistics systems. 
